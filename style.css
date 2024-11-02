@@ -1,0 +1,90 @@
+nav {
+  background-color: black;
+  color: aliceblue;
+  padding: 15px;
+  text-align: center;
+}
+
+.menu {
+  display: inline;
+  margin-right: 40px;
+  cursor: pointer;
+}
+
+.titulo-pagina {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.div-imagem {
+  text-align: center;
+}
+
+.imagem-pagina {
+  width: 300px;
+  border-radius: 150%;
+}
+
+.imagem-pagina-projeto {
+    width: 200px;
+    border-radius: 100px;
+}
+
+.sobre-mim {
+  text-align: center;
+}
+
+.tecnologias {
+  list-style: none;
+  font-family: sans-serif;
+}
+
+footer {
+  background-color: black;
+  color: aliceblue;
+  text-align: center;
+  position: absolute;
+  width: 100%;
+}
+
+/* chat-gpt */
+/* Estilo da tabela */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Estilo das células da tabela */
+th, td {
+    padding: 12px;
+    text-align: left;
+    border: 1px solid #ddd;
+}
+
+/* Estilo para o cabeçalho */
+th {
+    background-color: black; /* Cor de fundo verde */
+    color: white; /* Texto branco */
+}
+
+/* Estilo para as linhas da tabela */
+tr:nth-child(even) {
+    background-color: #f2f2f2; /* Cor de fundo cinza claro para linhas pares */
+}
+
+/* Estilo para links */
+a {
+    color: blueviolet; /* Cor dos links */
+    text-decoration: none; /* Remove o sublinhado */
+}
+
+a:hover {
+    text-decoration: underline; /* Sublinha ao passar o mouse */
+}
+
+/* Estilo para a tabela ao passar o mouse */
+tr:hover {
+    background-color: #ddd; /* Cor de fundo ao passar o mouse */
+}
